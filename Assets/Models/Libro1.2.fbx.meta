@@ -1,14 +1,16 @@
 fileFormatVersion: 2
-guid: 617d1b4e8dabf104d86d0dbdf3515d7c
+guid: ea791865d287c984dbf9ed054d88ec2b
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
+    2100000: Azul Tapa
+    2100002: Blanco Hoja
+    2100004: Blanco letras
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cube
+    4300000: Libro
   externalObjects: {}
   materials:
     importMaterials: 1

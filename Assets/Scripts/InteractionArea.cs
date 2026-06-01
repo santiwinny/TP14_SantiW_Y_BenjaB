@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class InteractionArea : MonoBehaviour
 {
+
+    int contador = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,8 +21,9 @@ public class InteractionArea : MonoBehaviour
     void OnTriggerEnter(Collider col){
         
         if(col.gameObject.CompareTag("Coleccionable")){
-            Debug.Log("Hubo colision con Coleccionable");
+            contador ++;
             Destroy(col.gameObject);
+            Debug.Log("Cantidad de coleccionables: " + contador);
         }
    }
 }
