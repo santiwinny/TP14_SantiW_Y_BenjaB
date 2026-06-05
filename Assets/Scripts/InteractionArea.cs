@@ -6,11 +6,12 @@ public class InteractionArea : MonoBehaviour
 {
 
     int contador = 0;
+    UIManager uimgr;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        uimgr = GameObject.FindObjectOfType<UIManager>();
     }
 
     // Update is called once per frame
@@ -18,12 +19,12 @@ public class InteractionArea : MonoBehaviour
     {
         
     }
-    void OnTriggerEnter(Collider col){
+    public void OnTriggerEnter(Collider col){
         
         if(col.gameObject.CompareTag("Coleccionable")){
-            contador ++;
+            contador = contador + 1;
             Destroy(col.gameObject);
-            Debug.Log("Cantidad de coleccionables: " + contador);
+            uimgr.UpdateScore(contador);
         }
    }
 }

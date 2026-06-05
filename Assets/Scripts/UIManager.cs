@@ -25,4 +25,7 @@ public class UIManager : MonoBehaviour
     public void UpdateTimer(){
         updateTimer.text = Gamemgr.timer.ToString();
     }
+    public void UpdateScore(int coleccionados){
+        updateScore.text = "Score:" + coleccionados;
+    }
 }
