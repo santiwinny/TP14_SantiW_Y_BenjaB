@@ -9,6 +9,8 @@ public class UIManager : MonoBehaviour
     public TextMeshProUGUI updateTimer;
     public TextMeshProUGUI updateScore;
     public GameManager Gamemgr;
+    public GameObject panelWin;
+    public GameObject panelGameOver;
 
     // Start is called before the first frame update
     void Start()
@@ -23,9 +25,15 @@ public class UIManager : MonoBehaviour
     }
 
     public void UpdateTimer(){
-        updateTimer.text = Gamemgr.timer.ToString();
+        updateTimer.text = (Gamemgr.timer).ToString("F2");
     }
     public void UpdateScore(int coleccionados){
         updateScore.text = "Score:" + coleccionados;
+    }
+    public void MostrarPanelWin(){
+        panelWin.SetActive(true);
+    }
+    public void MostrarPanelGameOver(){
+        panelGameOver.SetActive(true);
     }
 }

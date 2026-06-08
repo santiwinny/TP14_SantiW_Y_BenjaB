@@ -26,5 +26,9 @@ public class InteractionArea : MonoBehaviour
             Destroy(col.gameObject);
             uimgr.UpdateScore(contador);
         }
+        if(contador >= 5){
+            uimgr.MostrarPanelWin();
+            Time.timeScale = 0;
+        }
    }
 }
