@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 72e971f70792b9648b4ad4b975ee0baf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Azul Tapa.007
+    2100002: Blanco Hoja.007
+    2100004: Blanco letras.007
+    2100006: Blanco_Estanteria.002
+    2100008: Blanco_Bordes
+    2100010: Azul Tapa
+    2100012: Blanco Hoja
+    2100014: Blanco letras
+    2100016: Azul Tapa.003
+    2100018: Blanco Hoja.003
+    2100020: Blanco letras.003
+    2100022: Azul Tapa.004
+    2100024: Blanco Hoja.004
+    2100026: Blanco letras.004
+    2100028: Azul Tapa.009
+    2100030: Blanco Hoja.009
+    2100032: Blanco letras.009
+    2100034: Azul Tapa.010
+    2100036: Blanco Hoja.010
+    2100038: Blanco letras.010
+    2100040: Azul Tapa.011
+    2100042: Blanco Hoja.011
+    2100044: Blanco letras.011
+    2100046: Azul Tapa.012
+    2100048: Blanco Hoja.012
+    2100050: Blanco letras.012
+    2100052: Azul Tapa.013
+    2100054: Blanco Hoja.013
+    2100056: Blanco letras.013
+    2100058: Azul Tapa.014
+    2100060: Blanco Hoja.014
+    2100062: Blanco letras.014
+    2100064: Azul Tapa.015
+    2100066: Blanco Hoja.015
+    2100068: Blanco letras.015
+    2100070: Azul Tapa.016
+    2100072: Blanco Hoja.016
+    2100074: Blanco letras.016
+    2100076: Azul Tapa.017
+    2100078: Blanco Hoja.017
+    2100080: Blanco letras.017
+    2100082: Azul Tapa.018
+    2100084: Blanco Hoja.018
+    2100086: Blanco letras.018
+    2100088: Azul Tapa.019
+    2100090: Blanco Hoja.019
+    2100092: Blanco letras.019
+    2100094: Azul Tapa.020
+    2100096: Blanco Hoja.020
+    2100098: Blanco letras.020
+    2100100: Azul Tapa.021
+    2100102: Blanco Hoja.021
+    2100104: Blanco letras.021
+    2100106: Azul Tapa.022
+    2100108: Blanco Hoja.022
+    2100110: Blanco letras.022
+    2100112: Azul Tapa.023
+    2100114: Blanco Hoja.023
+    2100116: Blanco letras.023
+    2100118: Azul Tapa.024
+    2100120: Blanco Hoja.024
+    2100122: Blanco letras.024
+    2100124: Azul Tapa.025
+    2100126: Blanco Hoja.025
+    2100128: Blanco letras.025
+    2100130: Azul Tapa.026
+    2100132: Blanco Hoja.026
+    2100134: Blanco letras.026
+    2100136: Azul Tapa.027
+    2100138: Blanco Hoja.027
+    2100140: Blanco letras.027
+    2100142: Azul Tapa.028
+    2100144: Blanco Hoja.028
+    2100146: Blanco letras.028
+    2100148: Azul Tapa.029
+    2100150: Blanco Hoja.029
+    2100152: Blanco letras.029
+    2100154: Azul Tapa.030
+    2100156: Blanco Hoja.030
+    2100158: Blanco letras.030
+    2100160: Azul Tapa.032
+    2100162: Blanco Hoja.032
+    2100164: Blanco letras.032
+    2100166: Azul Tapa.033
+    2100168: Blanco Hoja.033
+    2100170: Blanco letras.033
+    2100172: Azul Tapa.034
+    2100174: Blanco Hoja.034
+    2100176: Blanco letras.034
+    2100178: Azul Tapa.035
+    2100180: Blanco Hoja.035
+    2100182: Blanco letras.035
+    2100184: Azul Tapa.036
+    2100186: Blanco Hoja.036
+    2100188: Blanco letras.036
+    2100190: Azul Tapa.037
+    2100192: Blanco Hoja.037
+    2100194: Blanco letras.037
+    2100196: Azul Tapa.038
+    2100198: Blanco Hoja.038
+    2100200: Blanco letras.038
+    2100202: Azul Tapa.039
+    2100204: Blanco Hoja.039
+    2100206: Blanco letras.039
+    2100208: Azul Tapa.040
+    2100210: Blanco Hoja.040
+    2100212: Blanco letras.040
+    2100214: Azul Tapa.041
+    2100216: Blanco Hoja.041
+    2100218: Blanco letras.041
+    2100220: Azul Tapa.042
+    2100222: Blanco Hoja.042
+    2100224: Blanco letras.042
+    2100226: Azul Tapa.043
+    2100228: Blanco Hoja.043
+    2100230: Blanco letras.043
+    2100232: Azul Tapa.044
+    2100234: Blanco Hoja.044
+    2100236: Blanco letras.044
+    2100238: Azul Tapa.045
+    2100240: Blanco Hoja.045
+    2100242: Blanco letras.045
+    2100244: Azul Tapa.046
+    2100246: Blanco Hoja.046
+    2100248: Blanco letras.046
+    2100250: Azul Tapa.047
+    2100252: Blanco Hoja.047
+    2100254: Blanco letras.047
+    2100256: Azul Tapa.048
+    2100258: Blanco Hoja.048
+    2100260: Blanco letras.048
+    2100262: Azul Tapa.049
+    2100264: Blanco Hoja.049
+    2100266: Blanco letras.049
+    2100268: Azul Tapa.050
+    2100270: Blanco Hoja.050
+    2100272: Blanco letras.050
+    2100274: Azul Tapa.051
+    2100276: Blanco Hoja.051
+    2100278: Blanco letras.051
+    2100280: Azul Tapa.052
+    2100282: Blanco Hoja.052
+    2100284: Blanco letras.052
+    2100286: Azul Tapa.053
+    2100288: Blanco Hoja.053
+    2100290: Blanco letras.053
+    2100292: Azul Tapa.054
+    2100294: Blanco Hoja.054
+    2100296: Blanco letras.054
+    2100298: Azul Tapa.055
+    2100300: Blanco Hoja.055
+    2100302: Blanco letras.055
+    2100304: Azul Tapa.056
+    2100306: Blanco Hoja.056
+    2100308: Blanco letras.056
+    2100310: Azul Tapa.057
+    2100312: Blanco Hoja.057
+    2100314: Blanco letras.057
+    2100316: Azul Tapa.058
+    2100318: Blanco Hoja.058
+    2100320: Blanco letras.058
+    2100322: Azul Tapa.059
+    2100324: Blanco Hoja.059
+    2100326: Blanco letras.059
+    2100328: Azul Tapa.060
+    2100330: Blanco Hoja.060
+    2100332: Blanco letras.060
+    2100334: Azul Tapa.061
+    2100336: Blanco Hoja.061
+    2100338: Blanco letras.061
+    2100340: Azul Tapa.063
+    2100342: Blanco Hoja.063
+    2100344: Blanco letras.063
+    2100346: Azul Tapa.064
+    2100348: Blanco Hoja.064
+    2100350: Blanco letras.064
+    2100352: Azul Tapa.065
+    2100354: Blanco Hoja.065
+    2100356: Blanco letras.065
+    2100358: Azul Tapa.066
+    2100360: Blanco Hoja.066
+    2100362: Blanco letras.066
+    2100364: Azul Tapa.067
+    2100366: Blanco Hoja.067
+    2100368: Blanco letras.067
+    2100370: Azul Tapa.068
+    2100372: Blanco Hoja.068
+    2100374: Blanco letras.068
+    2100376: Azul Tapa.069
+    2100378: Blanco Hoja.069
+    2100380: Blanco letras.069
+    2100382: Azul Tapa.070
+    2100384: Blanco Hoja.070
+    2100386: Blanco letras.070
+    2100388: Azul Tapa.071
+    2100390: Blanco Hoja.071
+    2100392: Blanco letras.071
+    2100394: Azul Tapa.072
+    2100396: Blanco Hoja.072
+    2100398: Blanco letras.072
+    2100400: Azul Tapa.073
+    2100402: Blanco Hoja.073
+    2100404: Blanco letras.073
+    2100406: Azul Tapa.074
+    2100408: Blanco Hoja.074
+    2100410: Blanco letras.074
+    2100412: Azul Tapa.075
+    2100414: Blanco Hoja.075
+    2100416: Blanco letras.075
+    2100418: Azul Tapa.076
+    2100420: Blanco Hoja.076
+    2100422: Blanco letras.076
+    2100424: Azul Tapa.077
+    2100426: Blanco Hoja.077
+    2100428: Blanco letras.077
+    2100430: Azul Tapa.078
+    2100432: Blanco Hoja.078
+    2100434: Blanco letras.078
+    2100436: Azul Tapa.079
+    2100438: Blanco Hoja.079
+    2100440: Blanco letras.079
+    2100442: Azul Tapa.080
+    2100444: Blanco Hoja.080
+    2100446: Blanco letras.080
+    2100448: Azul Tapa.081
+    2100450: Blanco Hoja.081
+    2100452: Blanco letras.081
+    2100454: Azul Tapa.082
+    2100456: Blanco Hoja.082
+    2100458: Blanco letras.082
+    2100460: Azul Tapa.083
+    2100462: Blanco Hoja.083
+    2100464: Blanco letras.083
+    2100466: Azul Tapa.084
+    2100468: Blanco Hoja.084
+    2100470: Blanco letras.084
+    2100472: Azul Tapa.085
+    2100474: Blanco Hoja.085
+    2100476: Blanco letras.085
+    2100478: Azul Tapa.086
+    2100480: Blanco Hoja.086
+    2100482: Blanco letras.086
+    2100484: Azul Tapa.087
+    2100486: Blanco Hoja.087
+    2100488: Blanco letras.087
+    2100490: Azul Tapa.088
+    2100492: Blanco Hoja.088
+    2100494: Blanco letras.088
+    2100496: Azul Tapa.089
+    2100498: Blanco Hoja.089
+    2100500: Blanco letras.089
+    2100502: Azul Tapa.090
+    2100504: Blanco Hoja.090
+    2100506: Blanco letras.090
+    2100508: Azul Tapa.091
+    2100510: Blanco Hoja.091
+    2100512: Blanco letras.091
+    2100514: Azul Tapa.092
+    2100516: Blanco Hoja.092
+    2100518: Blanco letras.092
+    2100520: Azul Tapa.093
+    2100522: Blanco Hoja.093
+    2100524: Blanco letras.093
+    2100526: Azul Tapa.094
+    2100528: Blanco Hoja.094
+    2100530: Blanco letras.094
+    2100532: Azul Tapa.095
+    2100534: Blanco Hoja.095
+    2100536: Blanco letras.095
+    2100538: Azul Tapa.096
+    2100540: Blanco Hoja.096
+    2100542: Blanco letras.096
+    2100544: Azul Tapa.097
+    2100546: Blanco Hoja.097
+    2100548: Blanco letras.097
+    2100550: Azul Tapa.098
+    2100552: Blanco Hoja.098
+    2100554: Blanco letras.098
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: EstanteriaCompleta
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
