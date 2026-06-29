@@ -14,7 +14,37 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Biblioteca_SuperAvanzada
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paredes
+    second: {fileID: 2100000, guid: e313035301291024cb3d6fef8e8f1624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Beige
+    second: {fileID: 2100000, guid: 80eb5facc89625c4e988f6f2d69884b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Beige.001
+    second: {fileID: 2100000, guid: 80eb5facc89625c4e988f6f2d69884b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Verde
+    second: {fileID: 2100000, guid: 5ba7a02030308be4195b127d79ae0507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta.001
+    second: {fileID: 2100000, guid: 8ce0ead4540d00944a066183554d8de5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo
+    second: {fileID: 2100000, guid: 65d1f0c8617418d4dabb471fe554a1f8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
