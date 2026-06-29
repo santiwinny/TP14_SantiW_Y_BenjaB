@@ -1,16 +1,32 @@
 fileFormatVersion: 2
-guid: 72e971f70792b9648b4ad4b975ee0baf
+guid: d62c4aa6aca669547aef8522d583eec5
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Blanco_Bordes
-    2100002: Blanco_Estanteria.002
+    2100000: Blanco Hoja.077
+    2100002: Azul Tapa.077
+    2100004: Blanco letras.077
     2300000: //RootNode
     3300000: //RootNode
-    4300000: EstanteriaCompleta.008
-  externalObjects: {}
+    4300000: Libro
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul Tapa.077
+    second: {fileID: 2100000, guid: 8f3cd63681be56a47bf8980dceb620c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanco Hoja.077
+    second: {fileID: 2100000, guid: 3754338649285474aaa40ee9679050c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanco letras.077
+    second: {fileID: 2100000, guid: fd09ab812a6225b4eb871685a70eb75a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
