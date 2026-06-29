@@ -14,17 +14,7 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Biblioteca_SuperAvanzada
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Piso_Beige.001
-    second: {fileID: 2100000, guid: 80eb5facc89625c4e988f6f2d69884b3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Techo
-    second: {fileID: 2100000, guid: 65d1f0c8617418d4dabb471fe554a1f8, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
