@@ -3202,6 +3202,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1789025333}
   m_CullTransparentMesh: 0
+--- !u!1 &1827336847 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 9e8f1078320e9aa40b44412aa2c0ab6c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1234241798}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1827336848
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827336847}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300000, guid: 9e8f1078320e9aa40b44412aa2c0ab6c, type: 3}
 --- !u!1 &1915464760
 GameObject:
   m_ObjectHideFlags: 0
